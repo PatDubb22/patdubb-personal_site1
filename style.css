@@ -1,0 +1,50 @@
+h1{
+                color: white;
+                background-color: black;
+                height:60px;
+                width:25;
+                font-family: calibri light;
+                font-size: 18px;
+                margin-bottom: 0px;
+               
+                
+            }
+            h2{
+                color: grey;
+                font-size: 14px;
+                font-family: candara;
+                margin: 0px;
+                border-bottom-style: solid;
+            div{
+                style
+                height:50px;
+                
+            }
+            }
+                
+                
+            }
+            h3{
+                font-size: 25px;
+                font-family: candara;
+                
+            }
+            
+            h4{
+                font-size: 25px;
+                font-family: candara;
+            }
+            h5{
+                font-size: 25px;
+                font-family: candara;
+            }
+            p{
+                color: grey;
+                font-size: 16px;
+                font-family: "calibri";
+            }
+            ul{
+                list-style-type:none;
+                margin: -1;
+                Padding: 0;
+            }

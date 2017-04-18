@@ -4,6 +4,7 @@
             }
         .heading1{
             background-color:black;
+            padding-top: 10px;
         }
         
         h1{    
@@ -14,7 +15,7 @@
             }
         h4{   
                 color: #f4f4f4;
-                  margin-top:-15px; 
+                 margin-top:-10px; 
                 
           }        
           
@@ -27,28 +28,40 @@
                 margin-top: 65px;
                 font-family: sans-serif
             }
+             
+            #icons2{
+                background-color: #EFE47C;
+                height:54.98px;
+                margin-top: -16px;
+            }
             ul{
                 list-style-type: none;
                 margin: 0;
                 padding: 0;
-                background-color:pink;
-                
+               
               }
               li{
                   display:inline;
+                  color: grey;
               }
               #article1{
                 float:right;
                 text-align: right;
+                margin-top: 20px;
                 
               }
               .icons{
                   float:left;
-                  
-                  
+                  margin-top: 20px;
               }
-              img {
+              
+              a{
+                  color:#BAB69A;
+              }
+              body{
+                  font-family: sans-serif;
+                  color: grey;
+              }
+              
     
-    padding: 1px;
-    width: 25px;
-}
+   

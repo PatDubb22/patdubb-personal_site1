@@ -1,26 +1,54 @@
-        h1{
-                color: white;
-                height:30px;
-                font-family: segoe ui;
+        div{
+            
+            padding-left: 10px;
+            }
+        .heading1{
+            background-color:black;
+        }
+        
+        h1{    
+                color:white;
+                font-family: sans-serif;
                 font-weight: normal;
-                font-size: large;
-          }
-        h4{
-              margin-top:0px; 
+                font-size: medium;
+            }
+        h4{   
+                color: #f4f4f4;
+                  margin-top:-15px; 
                 
           }        
           
         h3{   
                 font-size: 30px;
-                font-family: candara;
-                font-color: black;
+                font-family: sans-serif;
+                color:black;
           }
             p{
-                margin-left: 5px;
+                margin-top: 65px;
+                font-family: sans-serif
             }
             ul{
-                text-align:left;
-                height: 60px;
-                background-color: #ffff99;
-                margin: 0px;
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                background-color:pink;
+                
               }
+              li{
+                  display:inline;
+              }
+              #article1{
+                float:right;
+                text-align: right;
+                
+              }
+              .icons{
+                  float:left;
+                  
+                  
+              }
+              img {
+    
+    padding: 1px;
+    width: 25px;
+}

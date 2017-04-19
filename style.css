@@ -1,5 +1,5 @@
         div{
-            
+           
             padding-left: 10px;
             }
         .heading1{
@@ -36,14 +36,21 @@
                 margin-top: -16px;
             }
             ul{
-                list-style-type: none;
+               
                 margin: 0;
                 padding: 0;
                
               }
+              .bullets{
+                   list-style: none;
+                   display:inline;
+              }
               li{
-                  display:inline;
+                  
                   color: grey;
+              }
+              .horizontal{
+                  display: inline;
               }
               #article1{
                 float:right;
@@ -62,6 +69,7 @@
               body{
                   font-family: sans-serif;
                   color: grey;
+                  background-color: white;
               }
               
     

@@ -1,6 +1,7 @@
         div{
            
             padding-left: 10px;
+            padding-right: 10px;
             }
         .heading1{
             background-color:black;
@@ -56,6 +57,7 @@
                 float:right;
                 text-align: right;
                 margin-top: 20px;
+                font-family: monospace;
                 
               }
               .icons{
@@ -65,6 +67,16 @@
               
               a{
                   color:#BAB69A;
+              }
+              a:hover{
+                  background-color: blue;
+              }
+              a:visit{
+                  background-color: red;
+                  
+              }
+              a:active{
+                  background-color: yellow;
               }
               body{
                   font-family: sans-serif;
